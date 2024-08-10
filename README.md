@@ -16,7 +16,7 @@ ClashX是Clash的一个特定版本，专门为 macOS 平台设计和优化。�
 
 下载地址：[Github](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-> 下载Latest版本Assets中的ClashX.dmg或压缩包文件，该版本为最新稳定版本。下载的文件一般放置于用户的”下载”文件夹，使用Finder找到下载文件。111111111
+> 下载Latest版本Assets中的ClashX.dmg或压缩包文件，该版本为最新稳定版本。下载的文件一般放置于用户的”下载”文件夹，使用Finder找到下载文件。1111111111
 
 ## 三、Clash for Android地址
 
