@@ -8,7 +8,7 @@
 
 下载地址：[Github](https://github.com/Dreamacro/clash)
 
-## 二、ClashX地址11111
+## 二、ClashX地址111111
 
 ClashX是Clash的一个特定版本，专门为 macOS 平台设计和优化。它提供了更友好的图形用户界面和额外的功能，使用户能够更方便地配置和管理代理规则。
 
