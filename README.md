@@ -24,7 +24,7 @@ Clash for Android是针对 Android 平台的Clash版本，它在 Android 设备�
 
 官网地址：[Github](https://github.com/Kr328/ClashForAndroid)
 
-下载地址：[Github](https://github.com/Kr328/ClashForAndroid/releases)
+下载地址：[Github](https://github.com/Kr328/ClashForAndroid/releases)1
 
 > 下载最新Latest版本的cfa-[版本号]-foss-universal-release.apk 或 cfa-[版本号]-premium-universal-release.apk
 
