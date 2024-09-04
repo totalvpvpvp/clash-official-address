@@ -1,6 +1,6 @@
 # clash官网地址
 
-最新地址：[https://tz.059950.xyz](https://tz.059950.xyz)
+最新地址：[https://t.192291.xyz](https://t.192291.xyz)
 
 我们具体使用的软件通常是ClashX、Clash for Android和Clash for Windows这三个。
 
